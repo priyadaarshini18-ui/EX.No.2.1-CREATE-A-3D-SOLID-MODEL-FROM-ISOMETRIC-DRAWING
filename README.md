@@ -72,7 +72,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 ## OUTPUT
 	
-PRIYADAARSHINI.png -EDM.pdf
+<img width="592" height="420" alt="image" src="https://github.com/user-attachments/assets/c4616e4c-856f-4791-baf4-4f9707ba4142" />
+
 
 
 ## RESULT: 
